@@ -1,4 +1,6 @@
-# Livro de receitas - Curso DIO 👨‍🍳
+# Curso Intrudução ao Git e ao GitHub - DIO
+
+# Livro de receitas 👨‍🍳
 
 Olá ! Bem vindo ao meu livro de receitas.:man_cook:
 
